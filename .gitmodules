@@ -1,0 +1,3 @@
+[submodule "EV-Project-Backend"]
+	path = EV-Project-Backend
+	url = https://github.com/rithikrajyt/EV-Project-Backend
